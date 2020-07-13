@@ -1,18 +1,13 @@
 +++
-title = "Hello Friend"
-date = "1986-09-17"
-author = "Elliot"
+title = "Libro del mes"
+date = "2020-07-12"
+author = "Humberto Maturana"
 cover = "img/hello.jpg"
-description = "\"Hello, friend?\" That's lame. Maybe I should give you a name?"
+description = "Un libro que habla de lo importante que es la comunicación en estos tiempos"
 +++
 
-> "Hello, friend?" That's lame.
-> Maybe I should give you a name...
-> But that's a slippery slope.
-> You're only in my head.
-> We have to remember that...
-> Shit.
-> It's actually happened.
-> I'm talking to an imaginary person.
+> Este libro releva el curso de compresión.
+> de lo huano a lo largo de muchos años. Lo que no revela.
+> es cómo dicha compresión se ha enriquecido y ampliado.
 >
-> **— Mr. Robot S01E01**
+> **— Humberto Maturana**
