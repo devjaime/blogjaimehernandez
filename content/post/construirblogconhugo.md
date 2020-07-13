@@ -58,3 +58,5 @@ Una vez que Hugo esté instalado, puede crear un sitio Hugo ejecutando
 hugo new site myblog
 ```
 Este comando debe ser creado en la carpeta raiz ya que el subdirectorio quedara como myblog que es donde ejecutara los comandos de hugo.
+
+subire video explicativo
