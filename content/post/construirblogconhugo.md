@@ -60,3 +60,4 @@ hugo new site myblog
 Este comando debe ser creado en la carpeta raiz ya que el subdirectorio quedara como myblog que es donde ejecutara los comandos de hugo.
 
 subire video explicativo
+{{< youtube id="DEELL4ykzOo" >}}
