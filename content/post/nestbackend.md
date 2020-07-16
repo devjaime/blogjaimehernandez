@@ -71,4 +71,6 @@ Por último, Nest CLI proporciona el comando info (i) para mostrar información 
 
 {{< figure src="/img/nestinfo.png" alt="nest info">}}
 
+# Video dockerizando nestjs para entorno de desarrollo
+{{< youtube id="8EU2ZEmHwPk" >}}
 # Continuara.....
