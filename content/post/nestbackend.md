@@ -40,7 +40,7 @@ Se puede generar un nuevo proyecto Nest con el comando:
 nest new [nombre-proyecto]
 ```
 
-Este proceso creará el proyecto a partir de un typescript-starter y le pedirá el nombre, descripcion, version (por defecto 0.0.0), y autor(esto sería tu nombre). Una vez finalizado este proceso, tendrá un proyecto Nest completamente configurado con las dependencias instaladas en su node_modules (carpeta). El comando [new] también le preguntará qué gestor de paquetes desea utilizar,  [yarn] o [npm] se puede utilizar. Nest te da esta opción durante la creación.
+Este proceso creará el proyecto a partir de un typescript-starter y le pedirá el nombre, descripcion, version (por defecto 0.0.0), y autor(esto sería tu nombre). Una vez finalizado este proceso, tendrá un proyecto Nest completamente configurado con las dependencias instaladas en su node_modules (carpeta). El comando [new] también le preguntará qué gestor de paquetes desea utilizar,  [yarn] o [npm].
 
 El comando más utilizado desde la CLI será el [generate] (g), esto le permitirá crear nuevos controllers, modules, services o cualquier otro componente que soporta Nest. La lista de componentes disponibles es:
 
@@ -68,5 +68,7 @@ nest g s [nombre-servicio]
 ```
 
 Por último, Nest CLI proporciona el comando info (i) para mostrar información sobre su proyecto. Este comando generará información similar a la siguiente:
-Esta imagen no funciona continuara.....
-* {{- $image := resources.Get “img/nestjs.png” -}}
+
+{{< figure src="/img/nestinfo.png" alt="nest info">}}
+
+# Continuara.....
