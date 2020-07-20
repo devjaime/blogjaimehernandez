@@ -12,7 +12,8 @@ author = "Jaime Hernandez"
 
 # Bot de discord python
 {{< youtube id="LJ5LRPdqChE" >}} 
-Cuenta de Discord
+
+## Cuenta de Discord
 Antes de empezar necesitas ser propietario de un servidor o tener permisos para poder ejecutar tu bot en uno.
 
 Agregando tu Bot a tu Server
