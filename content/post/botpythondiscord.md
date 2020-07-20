@@ -1,6 +1,6 @@
 +++
-title = "Cómo crear tu primer blog de Hugo"
-description = "Hugo es una gran herramienta para usar si quieres comenzar un blog. Hugo es uno de los generadores de sitios estáticos de código abierto más populares. Con su increíble velocidad y flexibilidad, Hugo hace que la creación de sitios web sea divertida nuevamente."
+title = "Bot de discord python"
+description = "Crear un bot con discord y python"
 tags = [
     "discord",
     "python",
