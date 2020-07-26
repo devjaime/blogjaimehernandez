@@ -17,7 +17,7 @@ author = "Jaime Hernandez"
 * Puedes encontrar el articulo original [aquí](hhttps://www.twilio.com/blog/build-video-chat-application-python-javascript-twilio-programmable-video)
 * Puedes encontrar el codigo fuente original [aquí](https://github.com/miguelgrinberg/flask-twilio-video)
 
-## Este es un articulo original en ingles 
+## Este es un articulo original en ingles que se intento explicar en videotutorial en español. 
 En este artículo se plantea una solución de videoconferencia, pero en lugar de recurrir a un sistema de terceros, vamos a crear el nuestro. Nuestro sistema se ejecutará en un navegador web de escritorio y móvil, por lo que los participantes no necesitarán descargar ni instalar ningún software en sus computadoras. La parte del proyecto del lado del servidor usará Python y el marco Flask , y el lado del cliente se construirá en vanilla JavaScript, con algo de HTML y CSS.
 
 
