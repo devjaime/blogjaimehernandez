@@ -10,7 +10,7 @@ author = "Jaime Hernandez"
 +++
 
 # Video Primera aproximación con Flask
-{{< youtube id="LJ5LRPdqChE" >}} 
+{{< youtube id="ghoN4haF5SI" >}} 
 
 ## Codigo fuente
 Puedes encontrar el código fuente de este proyecto [aquí](https://github.com/devjaime/apiflaskproductos)
