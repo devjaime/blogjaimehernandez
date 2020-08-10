@@ -14,7 +14,7 @@ author = "Jaime Hernandez"
 {{< youtube id="MlTUU6Fe-N4" >}} 
 
 ## slide presentación
-https://docs.google.com/presentation/d/1sKnDy7aCJdQjdANpmmeSPWQSk2NWk4ryfZcztDyO1rk/edit?usp=sharing
+* https://docs.google.com/presentation/d/1sKnDy7aCJdQjdANpmmeSPWQSk2NWk4ryfZcztDyO1rk/edit?usp=sharing
 
 codigo fuente:
 * https://github.com/devjaime/QraphQLdemo
