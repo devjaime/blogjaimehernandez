@@ -1,6 +1,6 @@
 +++
 title = "NetListen Python GoogleHome"
-description = "Presentación proyecto y tecnología graphQL"
+description = "Conectando python IoT GoogleHome"
 tags = [
     "python",
     "GoogleHome",
