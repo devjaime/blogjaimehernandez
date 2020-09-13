@@ -1,11 +1,12 @@
 +++
-title = "Cómo un viaje insportablemente largo transformó mi vida"
-description = "Pasé 4 horas todos los días viajando. Mirando hacia atrás, se convirtió en el ímpetu para mi crecimiento personal en formas que no esperaba."
+title = "Pero, ¿qué es normal de todos modos?"
+description = "Desear que las cosas vuelvan a la normalidad es la nueva normalidad"
 tags = [
     "blog",
     "personal",
+    "reflexión",
 ]
-date = 2020-09-20T02:13:50Z
+date = 2020-09-12T02:13:50Z
 author = "Jaime Hernandez"
 +++
 
