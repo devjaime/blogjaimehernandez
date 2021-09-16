@@ -11,3 +11,9 @@ Me dedico al desarrollo de sistemas, programador y algunas otras cosas en mi tie
 
 Espero que lo que publico en este blog sea de tu agrado
 So, there you have it... enjoy!
+
+# Hi everyone
+
+My name is Jaime Hernandez, i live in Santiago of Chile
+
+My Job is System Analyst, progammer and some others things in my free time example read or play
