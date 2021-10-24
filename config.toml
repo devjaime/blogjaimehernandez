@@ -6,6 +6,10 @@ googleAnalytics = "UA-172407014-1"
 [[resources]]
   name = "nestjs"
   src = "img/nestinfo.png"
+
+[params.adsense]
+client = "ca-pub-4263793907594622"
+inArticleSlot = "4263793907594622"
   
 [params]
   # dir name of your blog content (default is `content/posts`)
