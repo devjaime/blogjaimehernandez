@@ -18,3 +18,6 @@ author = "Jaime Hernandez"
 
 codigo fuente:
 * https://github.com/devjaime/QraphQLdemo
+
+* Ayudame a seguir generando esta clase de contenido con tu aporte voluntario, escribeme a mi correo hernandez.hs@gmail.com y tomemonos un cafe 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=AHPZLS6ZR2A7S)

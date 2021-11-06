@@ -234,3 +234,6 @@ CouchDB es una base de datos NoSQL de código abierto basada en estándares comu
 
 ## CosmosDB
 * Azure Cosmos DB es un servicio de base de datos NoSQL totalmente administrado para el desarrollo de aplicaciones modernas. Obtenga tiempos de respuesta inferiores a diez milisegundos y una disponibilidad del 99,999 % garantizados, respaldados con acuerdos de nivel de servicio, escalabilidad automática e inmediata y API de código abierto para MongoDB y Cassandra. Disfrute de operaciones de escritura y lectura rápidas en cualquier parte del mundo gracias a la distribución global de la arquitectura multimaestro llave en mano.
+
+* Ayudame a seguir generando esta clase de contenido con tu aporte voluntario, escribeme a mi correo hernandez.hs@gmail.com y tomemonos un cafe 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=AHPZLS6ZR2A7S)

@@ -53,3 +53,6 @@ author = "Jaime Hernandez"
 
 
 * Es casi como si todas estas cosas se me hubieran escapado, las cosas asombrosas que no sabía se habían construido a lo largo de esos años, ladrillo a ladrillo, en un viaje insoportablemente largo, nada menos. Y con eso, ahora extraño extrañamente un viaje que una vez desprecié hasta los huesos. Ruta 506 desde Maipú hata AV MATTA con Sierra Bella.
+
+* Ayudame a seguir generando esta clase de contenido con tu aporte voluntario, escribeme a mi correo hernandez.hs@gmail.com y tomemonos un cafe 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=AHPZLS6ZR2A7S)

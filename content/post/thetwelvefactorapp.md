@@ -47,3 +47,6 @@ En este post quisiera compartir lo que encuentro relevante de las apliaciones de
 * Trate los registros como transmisiones de eventos
 ### XII. Procesos de administración (Admin processes)
 * Ejecute tareas de administración / gestión como procesos únicos
+
+* Ayudame a seguir generando esta clase de contenido con tu aporte voluntario, escribeme a mi correo hernandez.hs@gmail.com y tomemonos un cafe 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=AHPZLS6ZR2A7S)

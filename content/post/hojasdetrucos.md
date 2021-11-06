@@ -66,6 +66,7 @@ author = "Jaime Hernandez"
 - Creo que existen muchos trucos que aprender en diferentes lenguajes y editores de codigo.( si tienes mas me lo haces saber y con gusto la agregare),
 - Intentare ir dejando todos estos trucos ordenados en un solo repososito. Eso se lo dejo a mi yo del futuro.
 
-
+* Ayudame a seguir generando esta clase de contenido con tu aporte voluntario, escribeme a mi correo hernandez.hs@gmail.com y tomemonos un cafe 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=AHPZLS6ZR2A7S)
 
 

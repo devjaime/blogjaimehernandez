@@ -20,5 +20,7 @@ author = "Jaime Hernandez"
 ## Este es un articulo original en ingles que se intento explicar en videotutorial en español. 
 En este artículo se plantea una solución de videoconferencia, pero en lugar de recurrir a un sistema de terceros, vamos a crear el nuestro. Nuestro sistema se ejecutará en un navegador web de escritorio y móvil, por lo que los participantes no necesitarán descargar ni instalar ningún software en sus computadoras. La parte del proyecto del lado del servidor usará Python y el marco Flask , y el lado del cliente se construirá en vanilla JavaScript, con algo de HTML y CSS.
 
+* Ayudame a seguir generando esta clase de contenido con tu aporte voluntario, escribeme a mi correo hernandez.hs@gmail.com y tomemonos un cafe 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=AHPZLS6ZR2A7S)
 
 
