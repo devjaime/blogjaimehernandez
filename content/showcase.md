@@ -4,10 +4,15 @@ date: "2020-07-13"
 author: "Jaime Hernández"
 ---
 
+* ayudame a seguir generando esta clase de contenido
+<a href="https://www.paypal.com/donate/?hosted_button_id=AHPZLS6ZR2A7S" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ## Aplicación en Angular IoT para controlar dispositivos del hogar
 ### Fecha 2018
 En este video se muestra parte de la idea de construir una solución de dispositivos IoT en una interfaz amigable en Angular 
 {{< youtube id="vTofmxVcbNU" >}}
+
+
 
 ### Fecha 2018
 

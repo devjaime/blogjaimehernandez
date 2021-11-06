@@ -135,3 +135,5 @@ async def twit(ctx):
 https://discordpy.readthedocs.io/en/latest/index.html
 api scrapping de twitter
 * https://pypi.org/project/twitter-scraper/ 
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=AHPZLS6ZR2A7S" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
